@@ -21,4 +21,4 @@ This is a family travel tracker web application that keeps track of all the fami
 - PgAdmin
 
 ## Screenshots:
-<img src="./screenshot.png" width="1200" height="600">
+<img src="./screenshot.png" width="1200" height="500">
